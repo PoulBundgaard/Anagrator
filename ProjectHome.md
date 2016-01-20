@@ -1,0 +1,1 @@
+Generate anagrams of a phrase using a .txt dictionary.
